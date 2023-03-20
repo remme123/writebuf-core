@@ -2,7 +2,11 @@
 name = "writebuf-core"
 version = "0.1.0"
 edition = "2021"
+license = "MIT OR Apache-2.0"
 description = "A writable buffer that implements fmt::Write or ufmt::uWrite"
+keywords = ["writebuf", "no_std"]
+documentation = "https://docs.rs/writebuf-core"
+repository = "https://github.com/remme123/writebuf-core"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
